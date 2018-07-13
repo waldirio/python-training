@@ -1,4 +1,4 @@
-On this topic will be covered
+Will be covered on this topic ...
 
 * Creating our first python script
   * Using

@@ -1,4 +1,4 @@
-On this topic will be covered
+Will be covered on this topic ...
 
 * Let me see your environment
   * Visual studio code
