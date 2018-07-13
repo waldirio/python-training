@@ -1,4 +1,4 @@
-Training about Python
+Python Training
 
 Good friends learning great stuff
 
