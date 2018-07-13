@@ -1,7 +1,7 @@
 On this topic we will cover
 
 - Creating our first python script
--- Using
+ -- Using
 --- raw_input
 --- datetime.now
 --- format
