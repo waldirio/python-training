@@ -27,15 +27,15 @@ Play around with strings
 - Play around with lists
 ```
 Play around with lists
-	local_list = []
-	Check the list Content
-			local_list
-	Add the content of aux1 on the list local_list
-			local_list.append(aux1)
-	Add the content of aux2 on the list local_list
-			local_list.append(aux2)
-	Methods available on the list
-			dir(local_list)
-	Let's order, count, remove and do interesting stuff with our list
-			local_list.<???>
+  local_list = []
+  Check the list Content
+    local_list
+  Add the content of aux1 on the list local_list
+    local_list.append(aux1)
+  Add the content of aux2 on the list local_list
+    local_list.append(aux2)
+  Methods available on the list
+    dir(local_list)
+  Let's order, count, remove and do interesting stuff with our list
+    local_list.<???>
 ```
