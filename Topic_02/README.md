@@ -2,7 +2,7 @@ On this topic we will cover
 
 * Creating our first python script
   * Using
---- raw_input
+    * raw_input
 --- datetime.now
 --- format
 -- Will ask
