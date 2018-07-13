@@ -1,4 +1,4 @@
-On this topic we will cover
+On this topic will be covered
 
 - Virtual Environment
 ```
