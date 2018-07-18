@@ -17,7 +17,7 @@ def show_for_if():
 def show_while():
     while True:
         aux = input("Value: ")
-        if aux == "0":
+        if aux == "-999":
             break
 
 # Let's read the Conf File
@@ -45,6 +45,7 @@ def reading_conf_file():
     print("Password ..: ", PASSWORD)
 
 if __name__ == "__main__":
+    pass
     #show_for()
     #show_for_if()
     #show_while()
