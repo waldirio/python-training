@@ -29,6 +29,8 @@
 ```
 * Working with different json files
 
+* Link to some json files on the github
+  * https://github.com/felipefdl/cidades-estados-brasil-json
 
 Please access this Directory on your machine *Topic_07* and then type
 ```
