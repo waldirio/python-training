@@ -150,5 +150,5 @@ if __name__ == "__main__":
     #formatted_json_output()
     #formatted_json_output_with_count()
     #json_estados()
-    json_cidades()
+    #json_cidades()
     #json_city_state_full()
