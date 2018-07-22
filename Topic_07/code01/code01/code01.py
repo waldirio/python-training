@@ -214,9 +214,9 @@ def json_city_state_full():
 
 if __name__ == "__main__":
     pass
-    #Isimple_read_json()
+    #simple_read_json()
     #formatted_json_output()
     #formatted_json_output_with_count()
     #json_estados()
     #json_cidades()
-    # json_city_state_full()
+    #json_city_state_full()
